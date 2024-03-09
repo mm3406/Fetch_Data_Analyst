@@ -4,7 +4,7 @@ This repository contains documentation and code for analyzing data quality, rela
 
 ## Step 1: Relational Diagram
 
-- **Description**: The relational diagram illustrates the relationships between different entities in our database: `USERS`, `BRANDS`, `RECEIPTS`,`ITEMS`, 'CPG_BRANDS'.
+- **Description**: The relational diagram illustrates the relationships between different entities in our database: `USERS`, `BRANDS`, `RECEIPTS`,`ITEMS` and `CPG_BRANDS` .
 - **Purpose**: To provide a visual understanding of the database schema and how tables are interrelated.
 - **Location**: The relational diagram can be found in the `Relational_Diagram.pdf` file.
 
