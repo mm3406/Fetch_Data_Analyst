@@ -18,7 +18,7 @@ This repository contains documentation and code for analyzing data quality, rela
 
 - **Description**: The Jupyter notebook `Data_Quality_issues.ipynb` includes code for identifying and analyzing data quality issues.
 - **Purpose**: To ensure the integrity and reliability of the data before performing any detailed analysis.
-- **Findings**: The notebook outlines the methods used to discover issues such as missing values, duplicates, and outliers.
+- **Findings**: The notebook outlines the methods used to discover issues such as missing values and inconsistency in the Data.
 
 ## Step 4: Communicate with Stakeholders
 
