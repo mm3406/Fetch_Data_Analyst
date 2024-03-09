@@ -24,7 +24,7 @@ This repository contains documentation and code for analyzing data quality, rela
 
 - **Description**: Documentation on how to communicate findings from data analysis to stakeholders.
 - **Purpose**: To provide clear and actionable insights to product or business leaders who may not be familiar with technical details.
-- **Location**: Findings and communication strategies are documented within the `Communicate_with_Stakeholders.md` file.
+- **Location**: Findings and communication strategies are documented within the `Communicate with Stakeholders(Step-4).pdf` file.
 
 ## How to Use This Repository
 
