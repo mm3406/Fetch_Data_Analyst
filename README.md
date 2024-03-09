@@ -1,14 +1,35 @@
-# Fetch Data Analyst
+# Fetch Data Analyst Project
 
-## Overview
-This repository contains data analysis project and exercise for Fetch Rewards. It includes various analyses performed on data related to users, brands, receipts, and items, focusing on data quality issues and entity relationships.
+This repository contains documentation and code for analyzing data quality, relationships within a data model, executing SQL queries, and communicating findings to stakeholders. It is organized in several steps, each one building upon the previous to enhance the data quality and to facilitate meaningful data-driven decisions.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Quality Checks](#data-quality-checks)
-- [Contributing](#contributing)
-- [License](#license)
+## Step 1: Relational Diagram
 
-## Installation
-Instructions on setting up the project locally. For example:
+- **Description**: The relational diagram illustrates the relationships between different entities in our database: `USERS`, `BRANDS`, `RECEIPTS`, and `ITEMS`.
+- **Purpose**: To provide a visual understanding of the database schema and how tables are interrelated.
+- **Location**: The relational diagram can be found in the `Relational_Diagram.pdf` file.
+
+## Step 2: SQL Queries (SQL_DOC)
+
+- **Description**: The SQL document contains queries used to extract insights from the database.
+- **Purpose**: To showcase how data can be retrieved and manipulated to gather information on user behavior, brand performance, and sales data.
+- **Location**: SQL queries are detailed in the `SQL_DOC.sql` file.
+
+## Step 3: Data Quality Issues (Data_Quality_issues.ipynb)
+
+- **Description**: The Jupyter notebook `Data_Quality_issues.ipynb` includes code for identifying and analyzing data quality issues.
+- **Purpose**: To ensure the integrity and reliability of the data before performing any detailed analysis.
+- **Findings**: The notebook outlines the methods used to discover issues such as missing values, duplicates, and outliers.
+
+## Step 4: Communicate with Stakeholders
+
+- **Description**: Documentation on how to communicate findings from data analysis to stakeholders.
+- **Purpose**: To provide clear and actionable insights to product or business leaders who may not be familiar with technical details.
+- **Location**: Findings and communication strategies are documented within the `Communicate_with_Stakeholders.md` file.
+
+## How to Use This Repository
+
+1. Review the relational diagram to understand the database structure.
+2. Execute SQL queries to explore data and extract preliminary insights.
+3. Run the Jupyter notebook to identify and address data quality issues.
+4. Consult the communication strategies to effectively present your findings to stakeholders.
+
