@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `RECEIPTS` (
+CREATE TABLE  `RECEIPTS` (
 	`receipt_id` int AUTO_INCREMENT NOT NULL AUTO_INCREMENT UNIQUE,
 	`user_id` varchar(200) NOT NULL,
 	`bonus_points_earned` decimal(10,0) NOT NULL,
